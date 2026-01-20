@@ -6,15 +6,14 @@
       src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/logo.webp" 
       width="100px" 
     />
-    <h1>Título do Curso ou Projeto</h1>
+    <h1>Trilha Desenvolvedor Web Full Stack - 120 dias</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=DIO&message=Education&color=E94D5F&labelColor=202024" alt="DIO Project" />
-  <a href="NIVEL"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico&color=E94D5F&labelColor=202024" alt="Nivel"></a>
-
+  <a href="#"><img  src="https://img.shields.io/static/v1?label=Nivel&message=Basico%20a%20Intermediario&color=E94D5F&labelColor=202024" alt="Nivel"></a>
 </p>
 
 <!--  -->
@@ -61,50 +60,71 @@
 
 ## 💻 Sobre o Projeto
 
-Vamos construir uma página spa, responsiva, para usar em diversos tipos de micro, pequena e média empresas. Contém as seguintes seções: Header, Navigation, Home, Sobre, Serviços, Depoimentos, Contato e Footer que faz xxx e yyy
+Nesta trilha vamos construir uma aplicação **Full Stack** completa, responsiva e moderna, utilizando **Python, JavaScript, React e SQL**.  
+O projeto final será uma **plataforma de tarefas** para micro, pequenas e médias empresas, contendo as seguintes seções:
+
+- Header  
+- Navigation  
+- Home  
+- Sobre  
+- Serviços  
+- Depoimentos  
+- Contato  
+- Footer  
+
+Além disso, o backend será desenvolvido em **Python (Flask/Django)** com integração a banco de dados **PostgreSQL/MongoDB**, e todo o código será versionado e documentado no **GitHub**.
+
+---
 
 ## 📚 Pré-requisitos de Habilidades e Níveis de Conhecimento
 
-Antes de ingressar neste conteúdo, é necessário possuir conhecimento prévio nas seguintes áreas:
+Antes de ingressar neste conteúdo, é recomendado possuir conhecimento prévio em:
 
-- [habilidades ou conhecimentos prévios necessários] | [Básico, Intermediário, Avançado ou Especialista]
+- Lógica de programação | Básico  
+- HTML e CSS | Básico  
+- JavaScript | Básico  
+- Git e GitHub | Básico  
 
-- _Exemplo_:
-
-  - Java | Básico
-  - Gerenciamento de pacotes | Básico
-  -
-
-- [Outros pré-requisitos, se aplicável]
-
-- _Exemplo_:
-  - Lógica de programação
-  - Javascript
+---
 
 ## 🛠️ Habilidades e Sub-habilidades que vamos aprender neste conteúdo
 
-- [Lista das habilidades principais a serem desenvolvidas]
+- **Frontend**
+  - HTML, CSS e JavaScript
+  - React (componentes, hooks, SPA)
+- **Backend**
+  - Python (Flask/Django)
+  - Criação de APIs RESTful
+- **Banco de Dados**
+  - PostgreSQL / MongoDB
+  - Consultas SQL básicas
+- **Versionamento**
+  - Git (commits, branches, merge)
+  - GitHub (repositórios, pull requests, GitHub Pages)
+- **Deploy**
+  - Heroku / Vercel
+  - Documentação com README e Markdown
 
-  - [Subhabilidades relacionadas, se aplicável]
-
-- _Exemplo_:
-  - Java
-    - Api Rest
+---
 
 ## 🎯 Objetivos e Resultados Esperados
 
-Após a conclusão do curso/projeto, os estudantes estarão aptos a:
+Após a conclusão da trilha, os estudantes estarão aptos a:
 
-- [Descrição do que os estudantes serão capazes de fazer]
-- [Projetos ou soluções que os estudantes estarão aptos a construir]
+- Construir aplicações **Full Stack** completas (frontend + backend + banco de dados)  
+- Versionar e documentar projetos no **GitHub**  
+- Publicar aplicações online em plataformas de deploy gratuitas  
+- Criar um portfólio sólido para entrevistas técnicas  
+- Responder perguntas comuns de entrevistas para desenvolvedores júnior  
+
+---
 
 <!--START_SECTION:footer-->
-
 <br />
 <br />
-
 <p align="center">
   <a href="https://www.dio.me/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/digitalinnovationone/template-github-trilha/main/.github/assets/footer.png" alt="banner"/>
   </a>
 </p>
+<!--END_SECTION:footer-->
